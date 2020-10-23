@@ -7,7 +7,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: "bgd.apps.ocp4.chx.osecloud.com"
+  host: "bgd.apps.apps.cluster-74d2.sandbox460.opentlc.com"
   port:
     targetPort: 8080
   to:
